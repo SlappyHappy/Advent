@@ -23,7 +23,7 @@ The Fuel Counter-Upper needs to know the total fuel requirement. To find it, ind
 
 What is the sum of the fuel requirements for all of the modules on your spacecraft?
 
-Your puzzle answer was 3427972.
+Your puzzle answer was 3305041.
 
 ## Part Two
 
@@ -39,4 +39,4 @@ So, for each module mass, calculate its fuel and add it to the total. Then, trea
 
 What is the sum of the fuel requirements for all of the modules on your spacecraft when also taking into account the mass of the added fuel? (Calculate the fuel requirements for each module separately, then add them all up at the end.)
 
-Your puzzle answer was 5139078.
+Your puzzle answer was 4954710.
